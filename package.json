@@ -1,0 +1,30 @@
+{
+    "name": "express-liveresource",
+    "version": "0.1.0",
+    "author": "Fanout, Inc. <info@fanout.io>",
+    "description": "LiveResource Express Plugin",
+    "contributors": [
+        {
+            "name": "Katsuyuki Ohmuro",
+            "email": "harmony7@pex2.jp"
+        }
+    ],
+    "main": "./lib/express-liveresource",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fanout/express-liveresource.git"
+    },
+    "readmeFilename": "README.md",
+    "keywords": [
+        "fanout",
+        "express",
+        "liveresource",
+        "realtime",
+        "push",
+        "publish"
+    ],
+    "dependencies": {
+        "ws": "*"
+    },
+    "license": "MIT"
+}
